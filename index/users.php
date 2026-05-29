@@ -2,8 +2,8 @@
 $users = array(
     "admin" => array(
         "pwd" => "123456",
-        "name" => "Царский Никита Сергеевич",
-        "email" => "nikita_001234@list.ru"
+        "name" => "Клепиков Егор Петрович",
+        "email" => "egorklepikov928@gmail.com"
     )
 );
 ?>
